@@ -1,0 +1,52 @@
+body{
+    margin: 0 8px;
+    
+  }
+  .card {
+    width: 180px;
+    height: 240px;
+    padding: 5px;
+  }
+  
+  .card-box {
+    background-color: #c2c2d6;
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .kit-price{
+    background-color: grey;
+    width: fit-content;
+    padding: 3px;
+    border-radius: 5px;
+    float: right;
+    font-family: Arial;
+    font-size: 14px;
+  }
+  
+  .card-img {
+      background-color: grey;
+    height: 40%;
+    width: 80%;
+    margin: 10px 10% 0 10%;
+    border-radius: 10px
+  }
+  
+  .card-text {
+    width: 80%;
+    margin: 0 10% 10% 10%;
+    font-family: Arial;
+  }
+  
+  .card-title{
+   margin: 10px 0 0;
+   font-size: 18px;
+  }
+  
+  .card-description{
+    margin: 5px 0;
+    font-size: 15px;
+  }
